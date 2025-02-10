@@ -17,12 +17,6 @@ o1 like LLM for code intelligence.
 .* Arxiv 2025.1.9. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sunnynexus/Search-o1)](https://github.com/sunnynexus/Search-o1)
 
 
-
-
-   Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search
-
-
-
 #### Overthinking
 
 1. [**Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Step Reasoning.**](https://arxiv.org/abs/2412.01113) *Keito Kudo, Yoichi Aoki, Tatsuki Kuribayashi, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui
