@@ -10,8 +10,16 @@ o1 like LLM for code intelligence.
 2. [**Outcome-Refining Process Supervision for Code Generation.**](https://arxiv.org/abs/2403.03163) *Zhuohao Yu, Weizheng Gu, Yidong Wang, Zhengran Zeng, Jindong Wang, Wei Ye, Shikun Zhang
 .* Arxiv 2024.12.19. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhuohaoyu/ORPS)](https://github.com/zhuohaoyu/ORPS)
 
-3. [**Search-o1: Agentic Search-Enhanced Large Reasoning Models.**](https://arxiv.org/pdf/2501.05366) *Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou
+3. [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search.**](https://arxiv.org/abs/2412.18319) *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao
+.* Arxiv 2024.12.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HJYao00/Mulberry)](https://github.com/HJYao00/Mulberry)
+
+4. [**Search-o1: Agentic Search-Enhanced Large Reasoning Models.**](https://arxiv.org/pdf/2501.05366) *Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou
 .* Arxiv 2025.1.9. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sunnynexus/Search-o1)](https://github.com/sunnynexus/Search-o1)
+
+
+
+
+   Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search
 
 
 
