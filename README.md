@@ -25,6 +25,11 @@ o1 like LLM for code intelligence.
 2. [**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs.**](https://arxiv.org/abs/2412.21187) *Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
 .* Arxiv 2024.12.30.
 
+3. [**The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks.**](https://arxiv.org/abs/2502.08235) *Alejandro Cuadron, Dacheng Li, Wenjie Ma, Xingyao Wang, Yichuan Wang, Siyuan Zhuang, Shu Liu, Luis Gaspar Schroeder, Tian Xia, Huanzhi Mao, Nicholas Thumiger, Aditya Desai, Ion Stoica, Ana Klimovic, Graham Neubig, Joseph E. Gonzalez
+.* Arxiv 2025.2.12.
+
+   
+
 
 
 #### Token Compression
