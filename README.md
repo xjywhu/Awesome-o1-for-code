@@ -28,8 +28,15 @@ o1 like LLM for code intelligence.
 3. [**The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks.**](https://arxiv.org/abs/2502.08235) *Alejandro Cuadron, Dacheng Li, Wenjie Ma, Xingyao Wang, Yichuan Wang, Siyuan Zhuang, Shu Liu, Luis Gaspar Schroeder, Tian Xia, Huanzhi Mao, Nicholas Thumiger, Aditya Desai, Ion Stoica, Ana Klimovic, Graham Neubig, Joseph E. Gonzalez
 .* Arxiv 2025.2.12.
 
-   
+4. [**Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs.**](https://arxiv.org/abs/2502.10858) *Zongqian Wu, Tianyu Li, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng.* Arxiv 2025.2.15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zongqianwu/breadth)](https://github.com/zongqianwu/breadth)
 
+
+5. [**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities.**](https://arxiv.org/abs/2502.12025) *Fengqing Jiang, Zhangchen Xu, Yuetai Li, Luyao Niu, Zhen Xiang, Bo Li, Bill Yuchen Lin, Radha Poovendran
+.* Arxiv 2025.2.17.
+
+
+
+Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs
 
 
 #### Token Compression
