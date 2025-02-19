@@ -17,6 +17,12 @@ o1 like LLM for code intelligence.
 .* Arxiv 2025.1.9. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sunnynexus/Search-o1)](https://github.com/sunnynexus/Search-o1)
 
 
+5. [**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction.**](https://arxiv.org/abs/2502.07316) *Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, Junxian He
+.* Arxiv 2025.2.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hkust-nlp/CodeIO)](https://github.com/hkust-nlp/CodeIO)
+
+
+
+
 #### Overthinking
 
 1. [**Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Step Reasoning.**](https://arxiv.org/abs/2412.01113) *Keito Kudo, Yoichi Aoki, Tatsuki Kuribayashi, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui
@@ -36,7 +42,6 @@ o1 like LLM for code intelligence.
 
 
 
-Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs
 
 
 #### Token Compression
@@ -45,23 +50,27 @@ Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs
 .* ECCV 2024 Arxiv 2024.7.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-1. [**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**](https://arxiv.org/abs/2412.21187) *Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
+2. [**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**](https://arxiv.org/abs/2412.21187) *Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
 .* Arxiv 2024.11.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/showlab/ShowUI)](https://github.com/showlab/ShowUI)
 
-2. [**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**](https://arxiv.org/pdf/2411.17686) *Yuhang Han, Xuyang Liu, Pengxiang Ding, Donglin Wang, Honggang Chen, Qingsen Yan, Siteng Huang
+3. [**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**](https://arxiv.org/pdf/2411.17686) *Yuhang Han, Xuyang Liu, Pengxiang Ding, Donglin Wang, Honggang Chen, Qingsen Yan, Siteng Huang
 .* Arxiv 2024.11.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kawhiiiileo/FiCoCo)](https://github.com/kawhiiiileo/FiCoCo)
 
 
-3. [**ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models**](https://arxiv.org/pdf/2412.00447) *Xubing Ye, Yukang Gan, Yixiao Ge, Xiao-Ping Zhang, Yansong Tang
+4. [**ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models**](https://arxiv.org/pdf/2412.00447) *Xubing Ye, Yukang Gan, Yixiao Ge, Xiao-Ping Zhang, Yansong Tang
 .* Arxiv 2024.11.30. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-4. [**VisionZip: Longer is Better but Not Necessary in Vision Language Models**](https://arxiv.org/abs/2412.04467) *Senqiao Yang, Yukang Chen, Zhuotao Tian, Chengyao Wang, Jingyao Li, Bei Yu, Jiaya Jia
+5. [**VisionZip: Longer is Better but Not Necessary in Vision Language Models**](https://arxiv.org/abs/2412.04467) *Senqiao Yang, Yukang Chen, Zhuotao Tian, Chengyao Wang, Jingyao Li, Bei Yu, Jiaya Jia
 .* Arxiv 2024.12.5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/VisionZip)](https://github.com/dvlab-research/VisionZip)
 
 
-5. [**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**](https://arxiv.org/abs/2412.03548) *Mahtab Bigverdi, Zelun Luo, Cheng-Yu Hsieh, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna
+6. [**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**](https://arxiv.org/abs/2412.03548) *Mahtab Bigverdi, Zelun Luo, Cheng-Yu Hsieh, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna
 .* Arxiv 2024.12.8. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mahtabbigverdi/Aurora/tree/main)](https://github.com/mahtabbigverdi/Aurora)
+
+
+7. [**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**](https://arxiv.org/abs/2502.12067) *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li
+.* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hemingkx/TokenSkip)](https://github.com/hemingkx/TokenSkip)
 
 
 
