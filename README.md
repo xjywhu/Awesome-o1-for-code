@@ -69,8 +69,18 @@ o1 like LLM for code intelligence.
 .* Arxiv 2024.12.8. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mahtabbigverdi/Aurora/tree/main)](https://github.com/mahtabbigverdi/Aurora)
 
 
-7. [**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**](https://arxiv.org/abs/2502.12067) *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li
+7. [**Token-Budget-Aware LLM Reasoning**](https://arxiv.org/abs/2412.18547) *Tingxu Han, Zhenting Wang, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen
+.* Arxiv 2024.12.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/GeniusHTX/TALE)](https://github.com/GeniusHTX/TALE)
+
+8. [**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**](https://arxiv.org/abs/2502.09601) *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang
+.* Arxiv 2025.02.13. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/horseee/CoT-Valve)](https://github.com/horseee/CoT-Valve)
+
+9. [**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**](https://arxiv.org/abs/2502.12067) *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li
 .* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hemingkx/TokenSkip)](https://github.com/hemingkx/TokenSkip)
+
+
+
+
 
 
 
