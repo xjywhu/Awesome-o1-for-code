@@ -83,6 +83,11 @@ o1 like LLM for code intelligence.
 9. [**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**](https://arxiv.org/abs/2502.12067) *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li
 .* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hemingkx/TokenSkip)](https://github.com/hemingkx/TokenSkip)
 
+10. [**Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More**](https://arxiv.org/abs/2502.11494) *Zichen Wen, Yifeng Gao, Shaobo Wang, Junyuan Zhang, Qintong Zhang, Weijia Li, Conghui He, Linfeng Zhang
+.* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZichenWen1/DART)](https://github.com/ZichenWen1/DART)
+
+
+
 
 
 
