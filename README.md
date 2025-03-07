@@ -93,15 +93,6 @@ o1 like LLM for code intelligence.
 
 
 
-
-
-
-
-
-
-
-
-
 #### Efficient Code Generation
 1. [**When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention**](https://arxiv.org/abs/2412.21187) *Lianghong Guo, Yanlin Wang, Ensheng Shi, Wanjun Zhong, Hongyu Zhang, Jiachi Chen, Ruikai Zhang, Yuchi Ma, Zibin Zheng
 .* ISSTA 2024 (2024.7.29). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DeepSoftwareAnalytics/CodeFast)](https://github.com/DeepSoftwareAnalytics/CodeFast)
@@ -120,4 +111,17 @@ o1 like LLM for code intelligence.
 2. [**Attention Is All You Need for LLM-based Code Vulnerability Localization**](https://dl.acm.org/doi/10.1145/3691620.3695521) *Yue Li, Xiao Li, Hao Wu, Yue Zhang, Xiuzhen Cheng, Sheng Zhong, Fengyuan Xu
 .*
 
+
+Some open-source web links:
+- react: https://v0.dev/
+- vue: https://github.com/vuejs/awesome-vue
+- angular:
+  -- https://www.reddit.com/r/Angular2/comments/uq2dg8/what_are_some_good_open_source_angular_projects/
+  -- https://github.com/coryrylan/ng-projects
+  -- https://flatlogic.com/blog/top-angular-open-source-projects/
+
+general: 
+- https://github.com/sdil/open-production-web-projects
+- https://github.com/makinwab/awesome-opensource-webapps
+- https://github.com/unicodeveloper/awesome-opensource-apps
 
