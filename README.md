@@ -91,6 +91,14 @@ o1 like LLM for code intelligence.
 11. [**Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More**](https://arxiv.org/abs/2502.11494) *Zichen Wen, Yifeng Gao, Shaobo Wang, Junyuan Zhang, Qintong Zhang, Weijia Li, Conghui He, Linfeng Zhang
 .* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZichenWen1/DART)](https://github.com/ZichenWen1/DART)
 
+12. [**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**](https://arxiv.org/abs/2502.17422) *Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, Filip Ilievski
+.* Arxiv 2025.02.24. (ICLR 2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/saccharomycetes/mllms_know)](https://github.com/saccharomycetes/mllms_know)
+
+
+13. [**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**](https://arxiv.org/abs/2503.02175) *Saeed Ranjbar Alvar, Gursimran Singh, Mohammad Akbari, Yong Zhang
+.* Arxiv 2025.03.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vbdi/divprune)](https://github.com/vbdi/divprune)
+
+
 
 
 #### Efficient Code Generation
