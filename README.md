@@ -28,6 +28,8 @@ o1 like LLM for code intelligence.
 
 8. [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models.**](https://arxiv.org/abs/2503.02875) *Ke Ji, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, Xiaoyuan Liu, Zhijie Wang, Junying Chen, Benyou Wang, Zhaopeng Tu, Haitao Mi, Dong Yu.* Arxiv 2025.03.04.
 
+9. [**LSR-MCTS: Alleviating Long Range Dependency in Code Generation.**](https://arxiv.org/abs/2504.07433) *Tingwei Lu, Yangning Li, Liyuan Wang, Binghuai Lin, Jiwei Tang, Qingsong Lv, Wanshi Xu, Hai-Tao Zheng, Yinghui Li, Xin Su, Zifei Shan.* Arxiv 2025.04.10.
+
 
 
 
