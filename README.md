@@ -110,6 +110,10 @@ o1 like LLM for code intelligence.
 1. [**When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention**](https://arxiv.org/abs/2412.21187) *Lianghong Guo, Yanlin Wang, Ensheng Shi, Wanjun Zhong, Hongyu Zhang, Jiachi Chen, Ruikai Zhang, Yuchi Ma, Zibin Zheng
 .* ISSTA 2024 (2024.7.29). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DeepSoftwareAnalytics/CodeFast)](https://github.com/DeepSoftwareAnalytics/CodeFast)
 
+2. [**Rethinking Repetition Problems of LLMs in Code Generation**](https://arxiv.org/abs/2505.10402) *Yihong Dong, Yuchen Liu, Xue Jiang, Zhi Jin, Ge Li
+.* ACL 2025 (2025.5.15). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LYC127/RPG)](https://github.com/LYC127/RPG)
+   
+
 
 #### Interpretability
 1. [**Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?**](https://arxiv.org/abs/2306.01220) *Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang
