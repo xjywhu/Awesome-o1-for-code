@@ -112,6 +112,9 @@ o1 like LLM for code intelligence.
 
 2. [**Rethinking Repetition Problems of LLMs in Code Generation**](https://arxiv.org/abs/2505.10402) *Yihong Dong, Yuchen Liu, Xue Jiang, Zhi Jin, Ge Li
 .* ACL 2025 (2025.5.15). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LYC127/RPG)](https://github.com/LYC127/RPG)
+
+
+3. [**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**](https://arxiv.org/abs/2506.02780) *Peiding Wang, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu.* Arxiv 2025.6.3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhu-zhu-ding/EfficientEdit)](https://github.com/zhu-zhu-ding/EfficientEdit)
    
 
 
