@@ -30,7 +30,7 @@ o1 like LLM for code intelligence.
 
 9. [**LSR-MCTS: Alleviating Long Range Dependency in Code Generation.**](https://arxiv.org/abs/2504.07433) *Tingwei Lu, Yangning Li, Liyuan Wang, Binghuai Lin, Jiwei Tang, Qingsong Lv, Wanshi Xu, Hai-Tao Zheng, Yinghui Li, Xin Su, Zifei Shan.* Arxiv 2025.04.10.
 
-
+10. [**R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning.**](https://arxiv.org/abs/2505.21668) *Yongchao Chen, Yueying Liu, Junwei Zhou, Yilun Hao, Jingquan Wang, Yang Zhang, Chuchu Fan.* Arxiv 2025.05.27. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yongchao98/R1-Code-Interpreter)](https://github.com/yongchao98/R1-Code-Interpreter)
 
 
 
