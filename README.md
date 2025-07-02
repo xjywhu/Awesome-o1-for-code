@@ -121,8 +121,10 @@ o1 like LLM for code intelligence.
 
 
 #### Interpretability
-1. [**Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?**](https://arxiv.org/abs/2306.01220) *Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang
-.* FSE 2024 (2023.6.2). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/BonanKou/Attention-Alignment-Empirical-Study)](https://github.com/BonanKou/Attention-Alignment-Empirical-Study)
+1. [**Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?**](https://arxiv.org/abs/2306.01220) *Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang.* FSE 2024 (2023.6.2). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/BonanKou/Attention-Alignment-Empirical-Study)](https://github.com/BonanKou/Attention-Alignment-Empirical-Study)
+
+2. [**Unveiling Memorization in Code Models**](https://arxiv.org/abs/2308.09932) *Zhou Yang, Zhipeng Zhao, Chenyu Wang, Jieke Shi, Dongsun Kim, DongGyun Han, David Lo.* ICSE 2024 (2023.6.2).
+
 
 
 #### Others
