@@ -31,6 +31,9 @@ o1 like LLM for code intelligence.
 9. [**LSR-MCTS: Alleviating Long Range Dependency in Code Generation.**](https://arxiv.org/abs/2504.07433) *Tingwei Lu, Yangning Li, Liyuan Wang, Binghuai Lin, Jiwei Tang, Qingsong Lv, Wanshi Xu, Hai-Tao Zheng, Yinghui Li, Xin Su, Zifei Shan.* Arxiv 2025.04.10.
 
 10. [**R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning.**](https://arxiv.org/abs/2505.21668) *Yongchao Chen, Yueying Liu, Junwei Zhou, Yilun Hao, Jingquan Wang, Yang Zhang, Chuchu Fan.* Arxiv 2025.05.27. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yongchao98/R1-Code-Interpreter)](https://github.com/yongchao98/R1-Code-Interpreter)
+    
+11. [**Toward Structured Knowledge Reasoning: Contrastive Retrieval-Augmented Generation on Experience.**](https://arxiv.org/abs/2506.00842) *Jiawei Gu, Ziting Xian, Yuanzhen Xie, Ye Liu, Enjie Liu, Ruichao Zhong, Mochi Gao, Yunzhi Tan, Bo Hu, Zang Li.* Arxiv 2025.06.01 (ACL 2025 Findings). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Kuvvius/CoRE)](https://github.com/Kuvvius/CoRE)
+
 
 
 
@@ -119,6 +122,9 @@ o1 like LLM for code intelligence.
 3. [**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**](https://arxiv.org/abs/2506.02780) *Peiding Wang, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu.* Arxiv 2025.6.3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhu-zhu-ding/EfficientEdit)](https://github.com/zhu-zhu-ding/EfficientEdit)
    
 
+
+#### Computer Use
+1. [**STEVE: A Step Verification Pipeline for Computer-use Agent Training**](https://arxiv.org/abs/2503.12532) *Fanbin Lu, Zhisheng Zhong, Ziqin Wei, Shu Liu, Chi-Wing Fu, Jiaya Jia.* Arxiv.2024.3.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FanbinLu/STEVE-R1)](https://github.com/FanbinLu/STEVE-R1)
 
 #### Interpretability
 1. [**Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?**](https://arxiv.org/abs/2306.01220) *Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang.* FSE 2024 (2023.6.2). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/BonanKou/Attention-Alignment-Empirical-Study)](https://github.com/BonanKou/Attention-Alignment-Empirical-Study)
