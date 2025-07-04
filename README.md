@@ -135,6 +135,8 @@ o1 like LLM for code intelligence.
 
 2. [**Unveiling Memorization in Code Models**](https://arxiv.org/abs/2308.09932) *Zhou Yang, Zhipeng Zhao, Chenyu Wang, Jieke Shi, Dongsun Kim, DongGyun Han, David Lo.* ICSE 2024 (2023.6.2).
 
+#### Data Selection
+1. [**Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning**](https://arxiv.org/abs/2505.12212) *Shaobo Wang, Xiangqi Jin, Ziming Wang, Jize Wang, Jiajun Zhang, Kaixin Li, Zichen Wen, Zhong Li, Conghui He, Xuming Hu, Linfeng Zhang.* Arxiv.2025.3.18 (ACL 2025 Main). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/gszfwsb/Data-Whisperer)](https://github.com/gszfwsb/Data-Whisperer)
 
 
 #### Others
