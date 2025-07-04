@@ -126,6 +126,10 @@ o1 like LLM for code intelligence.
 #### Computer Use
 1. [**STEVE: A Step Verification Pipeline for Computer-use Agent Training**](https://arxiv.org/abs/2503.12532) *Fanbin Lu, Zhisheng Zhong, Ziqin Wei, Shu Liu, Chi-Wing Fu, Jiaya Jia.* Arxiv.2024.3.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FanbinLu/STEVE-R1)](https://github.com/FanbinLu/STEVE-R1)
 
+2. [**Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning**](https://arxiv.org/abs/2505.12370) *Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, Qibin Hou, Jinwei Chen, Peng-Tao Jiang, Bo Li.* Arxiv.2025.5.18. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YXB-NKU/SE-GUI)](https://github.com/YXB-NKU/SE-GUI)
+
+3. [**LineRetriever: Planning-Aware Observation Reduction for Web Agents**](https://arxiv.org/abs/2507.00210) *Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Massimo Caccia, Véronique Eglin, Alexandre Aussem, Jérémy Espinas, Alexandre Lacoste.* Arxiv.2025.6.30.
+
 #### Interpretability
 1. [**Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?**](https://arxiv.org/abs/2306.01220) *Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang.* FSE 2024 (2023.6.2). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/BonanKou/Attention-Alignment-Empirical-Study)](https://github.com/BonanKou/Attention-Alignment-Empirical-Study)
 
