@@ -147,6 +147,9 @@ o1 like LLM for code intelligence.
 2. [**Attention Is All You Need for LLM-based Code Vulnerability Localization**](https://dl.acm.org/doi/10.1145/3691620.3695521) *Yue Li, Xiao Li, Hao Wu, Yue Zhang, Xiuzhen Cheng, Sheng Zhong, Fengyuan Xu
 .*
 
+3. [**A Causal Learning Framework to Enhance the Robustness of Source Code Models**](https://dl.acm.org/doi/10.1145/3729387) * Junyao Ye, Zhen Lu, Xi Tang, Deiqing Zou, Shouhuai Xu, Weizhong Qiang, Hai Jin
+.* FSE 2025
+
 
 Some open-source web links:
 - react: https://v0.dev/
