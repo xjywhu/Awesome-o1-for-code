@@ -109,6 +109,11 @@ o1 like LLM for code intelligence.
 .* Arxiv 2025.03.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vbdi/divprune)](https://github.com/vbdi/divprune)
 
 
+14. [**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**](https://arxiv.org/abs/2507.13348) *Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia
+.* Arxiv 2025.07.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/VisionThink)](https://github.com/dvlab-research/VisionThink)
+
+
+
 
 
 #### Efficient Code Generation
