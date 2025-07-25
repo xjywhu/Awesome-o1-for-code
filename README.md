@@ -78,7 +78,7 @@ o1 like LLM for code intelligence.
 
 
 5. [**VisionZip: Longer is Better but Not Necessary in Vision Language Models**](https://arxiv.org/abs/2412.04467) *Senqiao Yang, Yukang Chen, Zhuotao Tian, Chengyao Wang, Jingyao Li, Bei Yu, Jiaya Jia
-.* Arxiv 2024.12.5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/VisionZip)](https://github.com/dvlab-research/VisionZip)
+.* Arxiv 2024.12.5 (CVPR 2025). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/VisionZip)](https://github.com/dvlab-research/VisionZip)
 
 
 6. [**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**](https://arxiv.org/abs/2412.03548) *Mahtab Bigverdi, Zelun Luo, Cheng-Yu Hsieh, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna
@@ -106,7 +106,7 @@ o1 like LLM for code intelligence.
 
 
 13. [**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**](https://arxiv.org/abs/2503.02175) *Saeed Ranjbar Alvar, Gursimran Singh, Mohammad Akbari, Yong Zhang
-.* Arxiv 2025.03.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vbdi/divprune)](https://github.com/vbdi/divprune)
+.* Arxiv 2025.03.04 (CVPR 2025). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vbdi/divprune)](https://github.com/vbdi/divprune)
 
 
 14. [**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**](https://arxiv.org/abs/2507.13348) *Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia
